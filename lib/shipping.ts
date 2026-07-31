@@ -1,0 +1,133 @@
+export type ShippingCompany = "yalidine" | "worldExpress";
+
+export interface ShippingPrice {
+  home: number;
+  desk: number;
+}
+
+export const shippingPrices = {
+  yalidine: {
+    Alger: { home: 500, desk: 400 },
+    Blida: { home: 600, desk: 550 },
+    Boumerdes: { home: 600, desk: 550 },
+    Tipaza: { home: 600, desk: 550 },
+
+    Chlef: { home: 800, desk: 650 },
+    OumElBouaghi: { home: 800, desk: 650 },
+    Batna: { home: 800, desk: 650 },
+    Bejaia: { home: 800, desk: 650 },
+    Bouira: { home: 800, desk: 650 },
+    Tlemcen: { home: 800, desk: 650 },
+    Tiaret: { home: 800, desk: 650 },
+    TiziOuzou: { home: 800, desk: 650 },
+    Jijel: { home: 800, desk: 650 },
+    Setif: { home: 800, desk: 650 },
+    Saida: { home: 800, desk: 650 },
+    Skikda: { home: 800, desk: 650 },
+    SidiBelAbbes: { home: 800, desk: 650 },
+    Annaba: { home: 800, desk: 650 },
+    Guelma: { home: 800, desk: 650 },
+    Constantine: { home: 800, desk: 650 },
+    Medea: { home: 800, desk: 650 },
+    Mostaganem: { home: 800, desk: 650 },
+        Msila: { home: 800, desk: 650 },
+    Mascara: { home: 800, desk: 650 },
+    Oran: { home: 800, desk: 650 },
+    BordjBouArreridj: { home: 800, desk: 650 },
+    ElTarf: { home: 800, desk: 650 },
+    Tissemsilt: { home: 800, desk: 650 },
+    Khenchela: { home: 800, desk: 650 },
+    SoukAhras: { home: 800, desk: 650 },
+    Mila: { home: 800, desk: 650 },
+    AinDefla: { home: 800, desk: 650 },
+    Naama: { home: 1400, desk: 1100 },
+    AinTemouchent: { home: 800, desk: 650 },
+    Ghardaia: { home: 950, desk: 800 },
+    Relizane: { home: 800, desk: 650 },
+    Timimoun: { home: 1400, desk: 1100 },
+    BordjBadjiMokhtar: { home: 1400, desk: 1100 },
+    OuledDjellal: { home: 950, desk: 800 },
+    BeniAbbes: { home: 1400, desk: 1100 },
+    InSalah: { home: 1600, desk: 1500 },
+    InGuezzam: { home: 1600, desk: 1500 },
+    Touggourt: { home: 950, desk: 800 },
+    Djanet: { home: 1600, desk: 1500 },
+    ElMghair: { home: 950, desk: 800 },
+    ElMenia: { home: 950, desk: 800 },
+      },
+
+  worldExpress: {
+    Alger: { home: 500, desk: 300 },
+    Blida: { home: 600, desk: 400 },
+    Boumerdes: { home: 600, desk: 400 },
+    Tipaza: { home: 600, desk: 400 },
+
+    Chlef: { home: 800, desk: 500 },
+    OumElBouaghi: { home: 800, desk: 500 },
+    Batna: { home: 800, desk: 500 },
+    Bejaia: { home: 800, desk: 500 },
+    Bouira: { home: 800, desk: 500 },
+    Tlemcen: { home: 800, desk: 500 },
+    Tiaret: { home: 800, desk: 500 },
+    TiziOuzou: { home: 800, desk: 500 },
+    Jijel: { home: 800, desk: 500 },
+    Setif: { home: 800, desk: 500 },
+    Saida: { home: 800, desk: 500 },
+    Skikda: { home: 800, desk: 500 },
+    SidiBelAbbes: { home: 800, desk: 500 },
+    Annaba: { home: 800, desk: 500 },
+    Guelma: { home: 800, desk: 500 },
+    Constantine: { home: 800, desk: 500 },
+    Medea: { home: 800, desk: 500 },
+    Mostaganem: { home: 800, desk: 500 },
+        Msila: { home: 800, desk: 500 },
+    Mascara: { home: 800, desk: 500 },
+    Oran: { home: 800, desk: 500 },
+    BordjBouArreridj: { home: 800, desk: 500 },
+    ElTarf: { home: 800, desk: 500 },
+    Tissemsilt: { home: 800, desk: 500 },
+    Khenchela: { home: 800, desk: 500 },
+    SoukAhras: { home: 800, desk: 500 },
+    Mila: { home: 800, desk: 500 },
+    AinDefla: { home: 800, desk: 500 },
+    AinTemouchent: { home: 800, desk: 500 },
+    Relizane: { home: 800, desk: 500 },
+
+    Laghouat: { home: 950, desk: 650 },
+    Biskra: { home: 950, desk: 650 },
+    Tebessa: { home: 950, desk: 650 },
+    Djelfa: { home: 950, desk: 650 },
+    Ouargla: { home: 950, desk: 650 },
+    ElOued: { home: 950, desk: 650 },
+    Ghardaia: { home: 950, desk: 650 },
+    OuledDjellal: { home: 950, desk: 650 },
+    Touggourt: { home: 950, desk: 650 },
+    ElMghair: { home: 950, desk: 650 },
+    ElMenia: { home: 950, desk: 650 },
+
+    Adrar: { home: 1400, desk: 900 },
+    Bechar: { home: 1400, desk: 900 },
+    ElBayadh: { home: 1400, desk: 900 },
+    Naama: { home: 1400, desk: 900 },
+    Timimoun: { home: 1400, desk: 900 },
+    BordjBadjiMokhtar: { home: 1400, desk: 900 },
+    BeniAbbes: { home: 1400, desk: 900 },
+
+    Tamanrasset: { home: 1600, desk: 1100 },
+    Illizi: { home: 1600, desk: 1100 },
+    Tindouf: { home: 1600, desk: 1100 },
+    InSalah: { home: 1600, desk: 1100 },
+    InGuezzam: { home: 1600, desk: 1100 },
+    Djanet: { home: 1600, desk: 1100 },
+  },
+};
+
+export function getShippingPrice(
+  company: ShippingCompany,
+  wilaya: string,
+  delivery: "home" | "desk"
+): number {
+  const prices = shippingPrices[company] as Record<string, ShippingPrice>;
+
+  return prices[wilaya]?.[delivery] ?? 0;
+}
