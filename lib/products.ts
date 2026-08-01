@@ -794,9 +794,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/body-oud-satin/1.JPG",
-    "/images/products/abdul-samad/body-oud-satin/2.JPG",
-    "/images/products/abdul-samad/body-oud-satin/3.JPG",
+    "/images/products/abdul-samad/body-oud-satin/1.jpg",
+    "/images/products/abdul-samad/body-oud-satin/2.jpg",
+    "/images/products/abdul-samad/body-oud-satin/3.jpg",
   ],
 
   description:
@@ -926,9 +926,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/khaltat-watan/1.JPG",
-    "/images/products/abdul-samad/khaltat-watan/2.JPG",
-    "/images/products/abdul-samad/khaltat-watan/3.JPG",
+    "/images/products/abdul-samad/khaltat-watan/1.Jpg",
+    "/images/products/abdul-samad/khaltat-watan/2.jpg",
+    "/images/products/abdul-samad/khaltat-watan/3.jpg",
   ],
 
   description:
@@ -989,9 +989,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/safari-lhomme/1.JPG",
-    "/images/products/abdul-samad/safari-lhomme/2.JPG",
-    "/images/products/abdul-samad/safari-lhomme/3.JPG",
+    "/images/products/abdul-samad/safari-lhomme/1.jpg",
+    "/images/products/abdul-samad/safari-lhomme/2.jpg",
+    "/images/products/abdul-samad/safari-lhomme/3.jpg",
   ],
 
   description:
@@ -1089,9 +1089,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/safari-la-femme/1.JPG",
-    "/images/products/abdul-samad/safari-la-femme/2.JPG",
-    "/images/products/abdul-samad/safari-la-femme/3.JPG",
+    "/images/products/abdul-samad/safari-la-femme/1.jpg",
+    "/images/products/abdul-samad/safari-la-femme/2.jpg",
+    "/images/products/abdul-samad/safari-la-femme/3.jpg",
   ],
 
   description:
@@ -1272,9 +1272,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/musc-rose/1.JPG",
-    "/images/products/abdul-samad/musc-rose/2.JPG",
-    "/images/products/abdul-samad/musc-rose/3.JPG",
+    "/images/products/abdul-samad/musc-rose/1.jpg",
+    "/images/products/abdul-samad/musc-rose/2.jpg",
+    "/images/products/abdul-samad/musc-rose/3.jpg",
   ],
 
   description:
@@ -1357,9 +1357,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/musc-toffee/1.JPG",
-    "/images/products/abdul-samad/musc-toffee/2.JPG",
-    "/images/products/abdul-samad/musc-toffee/3.JPG",
+    "/images/products/abdul-samad/musc-toffee/1.jpg",
+    "/images/products/abdul-samad/musc-toffee/2.jpg",
+    "/images/products/abdul-samad/musc-toffee/3.jpg",
   ],
 
   description:
@@ -1529,9 +1529,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/vintage-amber/1.JPG",
-    "/images/products/abdul-samad/vintage-amber/2.JPG",
-    "/images/products/abdul-samad/vintage-amber/3.JPG",
+    "/images/products/abdul-samad/vintage-amber/1.jpg",
+    "/images/products/abdul-samad/vintage-amber/2.jpg",
+    "/images/products/abdul-samad/vintage-amber/3.jpg",
   ],
 
   description:
@@ -3094,9 +3094,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/body-oud-tobacco/1.jpg",
-    "/images/products/abdul-samad/body-oud-tobacco/2.jpg",
-    "/images/products/abdul-samad/body-oud-tobacco/3.jpg",
+    "/images/products/abdul-samad/body-oud-tobacco/1.JPG",
+    "/images/products/abdul-samad/body-oud-tobacco/2.JPG",
+    "/images/products/abdul-samad/body-oud-tobacco/3.JPG",
   ],
 
   description:
