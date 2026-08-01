@@ -19,9 +19,9 @@ export const products: Product[] = [
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/kalemat/1.JPG",
-  "/images/products/arabian-oud/kalemat/2.JPG",
-  "/images/products/arabian-oud/kalemat/3.JPG",
+  "/images/products/arabian-oud/kalemat/1.jpg",
+  "/images/products/arabian-oud/kalemat/2.jpg",
+  "/images/products/arabian-oud/kalemat/3.jpg",
 ],
 
   description:
@@ -86,9 +86,9 @@ export const products: Product[] = [
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/kashmir-musc/1.JPG",
-  "/images/products/arabian-oud/kashmir-musc/2.JPG",
-  "/images/products/arabian-oud/kashmir-musc/3.JPG",
+  "/images/products/arabian-oud/kashmir-musc/1.jpg",
+  "/images/products/arabian-oud/kashmir-musc/2.jpg",
+  "/images/products/arabian-oud/kashmir-musc/3.jpg",
 ],
 
   description:
@@ -161,9 +161,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/resala/1.JPG",
-  "/images/products/arabian-oud/resala/2.JPG",
-  "/images/products/arabian-oud/resala/3.JPG",
+  "/images/products/arabian-oud/resala/1.jpg",
+  "/images/products/arabian-oud/resala/2.jpg",
+  "/images/products/arabian-oud/resala/3.jpg",
 ],
 
   description:
@@ -222,9 +222,9 @@ purchaseOptions: {
   stockCount: 999,
 
  images: [
-  "/images/products/arabian-oud/majestic-oud/1.JPG",
-  "/images/products/arabian-oud/majestic-oud/2.JPG",
-  "/images/products/arabian-oud/majestic-oud/3.JPG",
+  "/images/products/arabian-oud/majestic-oud/1.jpg",
+  "/images/products/arabian-oud/majestic-oud/2.jpg",
+  "/images/products/arabian-oud/majestic-oud/3.jpg",
 ],
 
   description:
@@ -285,9 +285,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/majestic-intense/1.JPG",
-  "/images/products/arabian-oud/majestic-intense/2.JPG",
-  "/images/products/arabian-oud/majestic-intense/3.JPG",
+  "/images/products/arabian-oud/majestic-intense/1.jpg",
+  "/images/products/arabian-oud/majestic-intense/2.jpg",
+  "/images/products/arabian-oud/majestic-intense/3.jpg",
 ],
 
   description:
@@ -348,9 +348,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/musc-rose/1.JPG",
-  "/images/products/arabian-oud/musc-rose/2.JPG",
-  "/images/products/arabian-oud/musc-rose/3.JPG",
+  "/images/products/arabian-oud/musc-rose/1.jpg",
+  "/images/products/arabian-oud/musc-rose/2.jpg",
+  "/images/products/arabian-oud/musc-rose/3.jpg",
 ],
   description:
     "Musc Rose combines soft white musk with blooming roses, fresh citrus and fruity notes to create an elegant fragrance that feels clean, smooth and naturally luxurious.",
@@ -411,9 +411,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/rose-wood/1.JPG",
-  "/images/products/arabian-oud/rose-wood/2.JPG",
-  "/images/products/arabian-oud/rose-wood/3.JPG",
+  "/images/products/arabian-oud/rose-wood/1.jpg",
+  "/images/products/arabian-oud/rose-wood/2.jpg",
+  "/images/products/arabian-oud/rose-wood/3.jpg",
 ],
 
   description:
@@ -476,9 +476,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/twin/1.JPG",
-  "/images/products/arabian-oud/twin/2.JPG",
-  "/images/products/arabian-oud/twin/3.JPG",
+  "/images/products/arabian-oud/twin/1.jpg",
+  "/images/products/arabian-oud/twin/2.jpg",
+  "/images/products/arabian-oud/twin/3.jpg",
 ],
 
   description:
@@ -540,9 +540,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/ramz/1.JPG",
-  "/images/products/arabian-oud/ramz/2.JPG",
-  "/images/products/arabian-oud/ramz/3.JPG",
+  "/images/products/arabian-oud/ramz/1.jpg",
+  "/images/products/arabian-oud/ramz/2.jpg",
+  "/images/products/arabian-oud/ramz/3.jpg",
 ],
   description:
     "RAMZ is a refreshing aromatic fragrance inspired by the sea. Marine accords blend with citrus, musk and precious woods to create a clean and elegant scent for everyday wear.",
@@ -604,9 +604,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/shalki-blue/1.JPG",
-  "/images/products/arabian-oud/shalki-blue/2.JPG",
-  "/images/products/arabian-oud/shalki-blue/3.JPG",
+  "/images/products/arabian-oud/shalki-blue/1.jpg",
+  "/images/products/arabian-oud/shalki-blue/2.jpg",
+  "/images/products/arabian-oud/shalki-blue/3.jpg",
 ],
   description:
     "Shalki Blue is an elegant oriental floral fragrance with a smooth luxurious character. A refined composition designed for those seeking sophistication and freshness together.",
@@ -665,9 +665,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/cherry-bubbles/1.JPG",
-  "/images/products/arabian-oud/cherry-bubbles/2.JPG",
-  "/images/products/arabian-oud/cherry-bubbles/3.JPG",
+  "/images/products/arabian-oud/cherry-bubbles/1.jpg",
+  "/images/products/arabian-oud/cherry-bubbles/2.jpg",
+  "/images/products/arabian-oud/cherry-bubbles/3.jpg",
 ],
   description:
     "A joyful fruity-floral fragrance built around delicious cherry accords with soft berries and delicate floral notes.",
@@ -728,9 +728,9 @@ purchaseOptions: {
   stockCount: 999,
 
  images: [
-  "/images/products/arabian-oud/asalat-elmusc/1.JPG",
-  "/images/products/arabian-oud/asalat-elmusc/2.JPG",
-  "/images/products/arabian-oud/asalat-elmusc/3.JPG",
+  "/images/products/arabian-oud/asalat-elmusc/1.jpg",
+  "/images/products/arabian-oud/asalat-elmusc/2.jpg",
+  "/images/products/arabian-oud/asalat-elmusc/3.jpg",
 ],
 
 
@@ -794,9 +794,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/body-oud-satin/1.JPG",
-    "/images/products/abdul-samad/body-oud-satin/2.JPG",
-    "/images/products/abdul-samad/body-oud-satin/3.JPG",
+    "/images/products/abdul-samad/body-oud-satin/1.jpg",
+    "/images/products/abdul-samad/body-oud-satin/2.jpg",
+    "/images/products/abdul-samad/body-oud-satin/3.jpg",
   ],
 
   description:
@@ -859,9 +859,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/body-oud-tobacco/1.JPG",
-    "/images/products/abdul-samad/body-oud-tobacco/2.JPG",
-    "/images/products/abdul-samad/body-oud-tobacco/3.JPG",
+    "/images/products/abdul-samad/body-oud-tobacco/1.jpg",
+    "/images/products/abdul-samad/body-oud-tobacco/2.jpg",
+    "/images/products/abdul-samad/body-oud-tobacco/3.jpg",
   ],
 
   description:
@@ -926,9 +926,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/khaltat-watan/1.JPG",
-    "/images/products/abdul-samad/khaltat-watan/2.JPG",
-    "/images/products/abdul-samad/khaltat-watan/3.JPG",
+    "/images/products/abdul-samad/khaltat-watan/1.jpg",
+    "/images/products/abdul-samad/khaltat-watan/2.jpg",
+    "/images/products/abdul-samad/khaltat-watan/3.jpg",
   ],
 
   description:
@@ -989,9 +989,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/safari-lhomme/1.JPG",
-    "/images/products/abdul-samad/safari-lhomme/2.JPG",
-    "/images/products/abdul-samad/safari-lhomme/3.JPG",
+    "/images/products/abdul-samad/safari-lhomme/1.jpg",
+    "/images/products/abdul-samad/safari-lhomme/2.jpg",
+    "/images/products/abdul-samad/safari-lhomme/3.jpg",
   ],
 
   description:
@@ -1089,9 +1089,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/safari-la-femme/1.JPG",
-    "/images/products/abdul-samad/safari-la-femme/2.JPG",
-    "/images/products/abdul-samad/safari-la-femme/3.JPG",
+    "/images/products/abdul-samad/safari-la-femme/1.jpg",
+    "/images/products/abdul-samad/safari-la-femme/2.jpg",
+    "/images/products/abdul-samad/safari-la-femme/3.jpg",
   ],
 
   description:
@@ -1186,9 +1186,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/caramel-powder/1.JPG",
-    "/images/products/abdul-samad/caramel-powder/2.JPG",
-    "/images/products/abdul-samad/caramel-powder/3.JPG",
+    "/images/products/abdul-samad/caramel-powder/1.jpg",
+    "/images/products/abdul-samad/caramel-powder/2.jpg",
+    "/images/products/abdul-samad/caramel-powder/3.jpg",
   ],
 
   description:
@@ -1272,9 +1272,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/musc-rose/1.JPG",
-    "/images/products/abdul-samad/musc-rose/2.JPG",
-    "/images/products/abdul-samad/musc-rose/3.JPG",
+    "/images/products/abdul-samad/musc-rose/1.jpg",
+    "/images/products/abdul-samad/musc-rose/2.jpg",
+    "/images/products/abdul-samad/musc-rose/3.jpg",
   ],
 
   description:
@@ -1357,9 +1357,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/musc-toffee/1.JPG",
-    "/images/products/abdul-samad/musc-toffee/2.JPG",
-    "/images/products/abdul-samad/musc-toffee/3.JPG",
+    "/images/products/abdul-samad/musc-toffee/1.jpg",
+    "/images/products/abdul-samad/musc-toffee/2.jpg",
+    "/images/products/abdul-samad/musc-toffee/3.jpg",
   ],
 
   description:
@@ -1446,9 +1446,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/bleu-kinam-vanilla/1.JPG",
-    "/images/products/abdul-samad/bleu-kinam-vanilla/2.JPG",
-    "/images/products/abdul-samad/bleu-kinam-vanilla/3.JPG",
+    "/images/products/abdul-samad/bleu-kinam-vanilla/1.jpg",
+    "/images/products/abdul-samad/bleu-kinam-vanilla/2.jpg",
+    "/images/products/abdul-samad/bleu-kinam-vanilla/3.jpg",
   ],
 
   description:
@@ -1529,9 +1529,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/vintage-amber/1.JPG",
-    "/images/products/abdul-samad/vintage-amber/2.JPG",
-    "/images/products/abdul-samad/vintage-amber/3.JPG",
+    "/images/products/abdul-samad/vintage-amber/1.jpg",
+    "/images/products/abdul-samad/vintage-amber/2.jpg",
+    "/images/products/abdul-samad/vintage-amber/3.jpg",
   ],
 
   description:
@@ -1623,9 +1623,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/saffran-and-musc/1.JPG",
-    "/images/products/abdul-samad/saffran-and-musc/2.JPG",
-    "/images/products/abdul-samad/saffran-and-musc/3.JPG",
+    "/images/products/abdul-samad/saffran-and-musc/1.jpg",
+    "/images/products/abdul-samad/saffran-and-musc/2.jpg",
+    "/images/products/abdul-samad/saffran-and-musc/3.jpg",
   ],
 
   description:
@@ -1708,9 +1708,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/thyme-lavender/1.JPG",
-    "/images/products/abdul-samad/thyme-lavender/2.JPG",
-    "/images/products/abdul-samad/thyme-lavender/3.JPG",
+    "/images/products/abdul-samad/thyme-lavender/1.jpg",
+    "/images/products/abdul-samad/thyme-lavender/2.jpg",
+    "/images/products/abdul-samad/thyme-lavender/3.jpg",
   ],
 
   description:
@@ -1794,9 +1794,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/berries-apple/1.JPG",
-    "/images/products/abdul-samad/berries-apple/2.JPG",
-    "/images/products/abdul-samad/berries-apple/3.JPG",
+    "/images/products/abdul-samad/berries-apple/1.jpg",
+    "/images/products/abdul-samad/berries-apple/2.jpg",
+    "/images/products/abdul-samad/berries-apple/3.jpg",
   ],
 
   description:
@@ -1881,9 +1881,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/viva-la-vida/1.JPG",
-    "/images/products/abdul-samad/viva-la-vida/2.JPG",
-    "/images/products/abdul-samad/viva-la-vida/3.JPG",
+    "/images/products/abdul-samad/viva-la-vida/1.jpg",
+    "/images/products/abdul-samad/viva-la-vida/2.jpg",
+    "/images/products/abdul-samad/viva-la-vida/3.jpg",
   ],
 
   description:
@@ -1980,9 +1980,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/viva-la-oud/1.JPG",
-    "/images/products/abdul-samad/viva-la-oud/2.JPG",
-    "/images/products/abdul-samad/viva-la-oud/3.JPG",
+    "/images/products/abdul-samad/viva-la-oud/1.jpg",
+    "/images/products/abdul-samad/viva-la-oud/2.jpg",
+    "/images/products/abdul-samad/viva-la-oud/3.jpg",
   ],
 
   description:
@@ -2083,9 +2083,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/viva-havana-banana/1.JPG",
-    "/images/products/abdul-samad/viva-havana-banana/2.JPG",
-    "/images/products/abdul-samad/viva-havana-banana/3.JPG",
+    "/images/products/abdul-samad/viva-havana-banana/1.jpg",
+    "/images/products/abdul-samad/viva-havana-banana/2.jpg",
+    "/images/products/abdul-samad/viva-havana-banana/3.jpg",
   ],
 
   description:
@@ -2180,9 +2180,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/viva-vanilla/1.JPG",
-    "/images/products/abdul-samad/viva-vanilla/2.JPG",
-    "/images/products/abdul-samad/viva-vanilla/3.JPG",
+    "/images/products/abdul-samad/viva-vanilla/1.jpg",
+    "/images/products/abdul-samad/viva-vanilla/2.jpg",
+    "/images/products/abdul-samad/viva-vanilla/3.jpg",
   ],
 
   description:
@@ -2277,9 +2277,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/viva-tiramisu/1.JPG",
-    "/images/products/abdul-samad/viva-tiramisu/2.JPG",
-    "/images/products/abdul-samad/viva-tiramisu/3.JPG",
+    "/images/products/abdul-samad/viva-tiramisu/1.jpg",
+    "/images/products/abdul-samad/viva-tiramisu/2.jpg",
+    "/images/products/abdul-samad/viva-tiramisu/3.jpg",
   ],
 
   description:
@@ -2374,9 +2374,9 @@ purchaseOptions: {
   stockCount: 0,
 
   images: [
-    "/images/products/abdul-samad/viva-macaron/1.JPG",
-    "/images/products/abdul-samad/viva-macaron/2.JPG",
-    "/images/products/abdul-samad/viva-macaron/3.JPG",
+    "/images/products/abdul-samad/viva-macaron/1.jpg",
+    "/images/products/abdul-samad/viva-macaron/2.jpg",
+    "/images/products/abdul-samad/viva-macaron/3.jpg",
   ],
 
   description:
@@ -2471,9 +2471,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/viva-matcha-cookie/1.JPG",
-    "/images/products/abdul-samad/viva-matcha-cookie/2.JPG",
-    "/images/products/abdul-samad/viva-matcha-cookie/3.JPG",
+    "/images/products/abdul-samad/viva-matcha-cookie/1.jpg",
+    "/images/products/abdul-samad/viva-matcha-cookie/2.jpg",
+    "/images/products/abdul-samad/viva-matcha-cookie/3.jpg",
   ],
 
   description:
@@ -2568,9 +2568,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/white-oud-safida/1.JPG",
-    "/images/products/abdul-samad/white-oud-safida/2.JPG",
-    "/images/products/abdul-samad/white-oud-safida/3.JPG",
+    "/images/products/abdul-samad/white-oud-safida/1.jpg",
+    "/images/products/abdul-samad/white-oud-safida/2.jpg",
+    "/images/products/abdul-samad/white-oud-safida/3.jpg",
   ],
 
   description:
@@ -2651,9 +2651,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/oud-klakasi/1.JPG",
-    "/images/products/abdul-samad/oud-klakasi/2.JPG",
-    "/images/products/abdul-samad/oud-klakasi/3.JPG",
+    "/images/products/abdul-samad/oud-klakasi/1.jpg",
+    "/images/products/abdul-samad/oud-klakasi/2.jpg",
+    "/images/products/abdul-samad/oud-klakasi/3.jpg",
   ],
 
   description:
@@ -2730,9 +2730,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/oud-villaria/1.JPG",
-    "/images/products/abdul-samad/oud-villaria/2.JPG",
-    "/images/products/abdul-samad/oud-villaria/3.JPG",
+    "/images/products/abdul-samad/oud-villaria/1.jpg",
+    "/images/products/abdul-samad/oud-villaria/2.jpg",
+    "/images/products/abdul-samad/oud-villaria/3.jpg",
   ],
 
   description:
@@ -2817,9 +2817,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/black-incense/1.JPG",
-    "/images/products/abdul-samad/black-incense/2.JPG",
-    "/images/products/abdul-samad/black-incense/3.JPG",
+    "/images/products/abdul-samad/black-incense/1.jpg",
+    "/images/products/abdul-samad/black-incense/2.jpg",
+    "/images/products/abdul-samad/black-incense/3.jpg",
   ],
 
   description:
@@ -2912,9 +2912,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/pink-incense/1.JPG",
-    "/images/products/abdul-samad/pink-incense/2.JPG",
-    "/images/products/abdul-samad/pink-incense/3.JPG",
+    "/images/products/abdul-samad/pink-incense/1.jpg",
+    "/images/products/abdul-samad/pink-incense/2.jpg",
+    "/images/products/abdul-samad/pink-incense/3.jpg",
   ],
 
   description:
@@ -2995,9 +2995,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/the-black/1.JPG",
-    "/images/products/abdul-samad/the-black/2.JPG",
-    "/images/products/abdul-samad/the-black/3.JPG",
+    "/images/products/abdul-samad/the-black/1.jpg",
+    "/images/products/abdul-samad/the-black/2.jpg",
+    "/images/products/abdul-samad/the-black/3.jpg",
   ],
 
   description:
@@ -3094,9 +3094,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/body-oud-tobacco/1.JPG",
-    "/images/products/abdul-samad/body-oud-tobacco/2.JPG",
-    "/images/products/abdul-samad/body-oud-tobacco/3.JPG",
+    "/images/products/abdul-samad/body-oud-tobacco/1.jpg",
+    "/images/products/abdul-samad/body-oud-tobacco/2.jpg",
+    "/images/products/abdul-samad/body-oud-tobacco/3.jpg",
   ],
 
   description:
@@ -3185,9 +3185,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/al-majed-oud/noir/1.JPG",
-    "/images/products/al-majed-oud/noir/2.JPG",
-    "/images/products/al-majed-oud/noir/3.JPG",
+    "/images/products/al-majed-oud/noir/1.jpg",
+    "/images/products/al-majed-oud/noir/2.jpg",
+    "/images/products/al-majed-oud/noir/3.jpg",
   ],
 
   description:
@@ -3257,9 +3257,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/al-majed-oud/serious/1.JPG",
-    "/images/products/al-majed-oud/serious/2.JPG",
-    "/images/products/al-majed-oud/serious/3.JPG",
+    "/images/products/al-majed-oud/serious/1.jpg",
+    "/images/products/al-majed-oud/serious/2.jpg",
+    "/images/products/al-majed-oud/serious/3.jpg",
   ],
 
   description:
@@ -3328,9 +3328,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/nukhbat-al-oud/mashaer-musk/1.JPG",
-    "/images/products/nukhbat-al-oud/mashaer-musk/2.JPG",
-    "/images/products/nukhbat-al-oud/mashaer-musk/3.JPG",
+    "/images/products/nukhbat-al-oud/mashaer-musk/1.jpg",
+    "/images/products/nukhbat-al-oud/mashaer-musk/2.jpg",
+    "/images/products/nukhbat-al-oud/mashaer-musk/3.jpg",
   ],
 
   description:
@@ -3392,9 +3392,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/nukhbat-al-oud/mashaer-silver/1.JPG",
-    "/images/products/nukhbat-al-oud/mashaer-silver/2.JPG",
-    "/images/products/nukhbat-al-oud/mashaer-silver/3.JPG",
+    "/images/products/nukhbat-al-oud/mashaer-silver/1.jpg",
+    "/images/products/nukhbat-al-oud/mashaer-silver/2.jpg",
+    "/images/products/nukhbat-al-oud/mashaer-silver/3.jpg",
   ],
 
   description:
@@ -3457,9 +3457,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/nukhbat-al-oud/mashaer-oud/1.JPG",
-    "/images/products/nukhbat-al-oud/mashaer-oud/2.JPG",
-    "/images/products/nukhbat-al-oud/mashaer-oud/3.JPG",
+    "/images/products/nukhbat-al-oud/mashaer-oud/1.jpg",
+    "/images/products/nukhbat-al-oud/mashaer-oud/2.jpg",
+    "/images/products/nukhbat-al-oud/mashaer-oud/3.jpg",
   ],
 
   description:
@@ -3526,9 +3526,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/nukhbat-al-oud/portrait/1.JPG",
-    "/images/products/nukhbat-al-oud/portrait/2.JPG",
-    "/images/products/nukhbat-al-oud/portrait/3.JPG",
+    "/images/products/nukhbat-al-oud/portrait/1.jpg",
+    "/images/products/nukhbat-al-oud/portrait/2.jpg",
+    "/images/products/nukhbat-al-oud/portrait/3.jpg",
   ],
 
   description:
@@ -3611,9 +3611,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/nukhbat-al-oud/lazward/1.JPG",
-    "/images/products/nukhbat-al-oud/lazward/2.JPG",
-    "/images/products/nukhbat-al-oud/lazward/3.JPG",
+    "/images/products/nukhbat-al-oud/lazward/1.jpg",
+    "/images/products/nukhbat-al-oud/lazward/2.jpg",
+    "/images/products/nukhbat-al-oud/lazward/3.jpg",
   ],
 
   description:
@@ -3684,9 +3684,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/gissah/gissah-tango/1.JPG",
-    "/images/products/gissah/gissah-tango/2.JPG",
-    "/images/products/gissah/gissah-tango/3.JPG",
+    "/images/products/gissah/gissah-tango/1.jpg",
+    "/images/products/gissah/gissah-tango/2.jpg",
+    "/images/products/gissah/gissah-tango/3.jpg",
   ],
 
   description:
@@ -3756,9 +3756,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/gissah/gissah-voila/1.JPG",
-    "/images/products/gissah/gissah-voila/2.JPG",
-    "/images/products/gissah/gissah-voila/3.JPG",
+    "/images/products/gissah/gissah-voila/1.jpg",
+    "/images/products/gissah/gissah-voila/2.jpg",
+    "/images/products/gissah/gissah-voila/3.jpg",
   ],
 
   description:
@@ -3826,9 +3826,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/gissah/gissah-mavro/1.JPG",
-    "/images/products/gissah/gissah-mavro/2.JPG",
-    "/images/products/gissah/gissah-mavro/3.JPG",
+    "/images/products/gissah/gissah-mavro/1.jpg",
+    "/images/products/gissah/gissah-mavro/2.jpg",
+    "/images/products/gissah/gissah-mavro/3.jpg",
   ],
 
   description:
@@ -3896,9 +3896,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/gissah/gissah-akoya/1.JPG",
-    "/images/products/gissah/gissah-akoya/2.JPG",
-    "/images/products/gissah/gissah-akoya/3.JPG",
+    "/images/products/gissah/gissah-akoya/1.jpg",
+    "/images/products/gissah/gissah-akoya/2.jpg",
+    "/images/products/gissah/gissah-akoya/3.jpg",
   ],
 
   description:
@@ -3968,9 +3968,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/gissah/gissah-hudson-valley/1.JPG",
-    "/images/products/gissah/gissah-hudson-valley/2.JPG",
-    "/images/products/gissah/gissah-hudson-valley/3.JPG",
+    "/images/products/gissah/gissah-hudson-valley/1.jpg",
+    "/images/products/gissah/gissah-hudson-valley/2.jpg",
+    "/images/products/gissah/gissah-hudson-valley/3.jpg",
   ],
 
   description:
@@ -4039,9 +4039,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/gissah/gissah-hudson-ii/1.JPG",
-    "/images/products/gissah/gissah-hudson-ii/2.JPG",
-    "/images/products/gissah/gissah-hudson-ii/3.JPG",
+    "/images/products/gissah/gissah-hudson-ii/1.jpg",
+    "/images/products/gissah/gissah-hudson-ii/2.jpg",
+    "/images/products/gissah/gissah-hudson-ii/3.jpg",
   ],
 
   description:
@@ -4111,9 +4111,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/gissah/gissah-helen/1.JPG",
-    "/images/products/gissah/gissah-helen/2.JPG",
-    "/images/products/gissah/gissah-helen/3.JPG",
+    "/images/products/gissah/gissah-helen/1.jpg",
+    "/images/products/gissah/gissah-helen/2.jpg",
+    "/images/products/gissah/gissah-helen/3.jpg",
   ],
 
   description:
@@ -4201,9 +4201,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/gissah/gissah-hudson-amora/1.JPG",
-    "/images/products/gissah/gissah-hudson-amora/2.JPG",
-    "/images/products/gissah/gissah-hudson-amora/3.JPG",
+    "/images/products/gissah/gissah-hudson-amora/1.jpg",
+    "/images/products/gissah/gissah-hudson-amora/2.jpg",
+    "/images/products/gissah/gissah-hudson-amora/3.jpg",
   ],
 
   description:
@@ -4286,9 +4286,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/arrogate-bakhur/1.JPG",
-    "/images/products/assaf/arrogate-bakhur/2.JPG",
-    "/images/products/assaf/arrogate-bakhur/3.JPG",
+    "/images/products/assaf/arrogate-bakhur/1.jpg",
+    "/images/products/assaf/arrogate-bakhur/2.jpg",
+    "/images/products/assaf/arrogate-bakhur/3.jpg",
   ],
 
   description:
@@ -4355,9 +4355,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/arrogate-comete/1.JPG",
-    "/images/products/assaf/arrogate-comete/2.JPG",
-    "/images/products/assaf/arrogate-comete/3.JPG",
+    "/images/products/assaf/arrogate-comete/1.jpg",
+    "/images/products/assaf/arrogate-comete/2.jpg",
+    "/images/products/assaf/arrogate-comete/3.jpg",
   ],
 
   description:
@@ -4425,9 +4425,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/dangerous-arrogate/1.JPG",
-    "/images/products/assaf/dangerous-arrogate/2.JPG",
-    "/images/products/assaf/dangerous-arrogate/3.JPG",
+    "/images/products/assaf/dangerous-arrogate/1.jpg",
+    "/images/products/assaf/dangerous-arrogate/2.jpg",
+    "/images/products/assaf/dangerous-arrogate/3.jpg",
   ],
 
   description:
@@ -4491,9 +4491,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/lip-stick/1.JPG",
-    "/images/products/assaf/lip-stick/2.JPG",
-    "/images/products/assaf/lip-stick/3.JPG",
+    "/images/products/assaf/lip-stick/1.jpg",
+    "/images/products/assaf/lip-stick/2.jpg",
+    "/images/products/assaf/lip-stick/3.jpg",
   ],
 
   description:
@@ -4561,9 +4561,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/rick/1.JPG",
-    "/images/products/assaf/rick/2.JPG",
-    "/images/products/assaf/rick/3.JPG",
+    "/images/products/assaf/rick/1.jpg",
+    "/images/products/assaf/rick/2.jpg",
+    "/images/products/assaf/rick/3.jpg",
   ],
 
   description:
@@ -4630,9 +4630,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/frankel-black-elixir/1.JPG",
-    "/images/products/assaf/frankel-black-elixir/2.JPG",
-    "/images/products/assaf/frankel-black-elixir/3.JPG",
+    "/images/products/assaf/frankel-black-elixir/1.jpg",
+    "/images/products/assaf/frankel-black-elixir/2.jpg",
+    "/images/products/assaf/frankel-black-elixir/3.jpg",
   ],
 
   description:
@@ -4699,9 +4699,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/frankel-silver-elixir/1.JPG",
-    "/images/products/assaf/frankel-silver-elixir/2.JPG",
-    "/images/products/assaf/frankel-silver-elixir/3.JPG",
+    "/images/products/assaf/frankel-silver-elixir/1.jpg",
+    "/images/products/assaf/frankel-silver-elixir/2.jpg",
+    "/images/products/assaf/frankel-silver-elixir/3.jpg",
   ],
 
   description:
@@ -4766,9 +4766,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/king-enable/1.JPG",
-    "/images/products/assaf/king-enable/2.JPG",
-    "/images/products/assaf/king-enable/3.JPG",
+    "/images/products/assaf/king-enable/1.jpg",
+    "/images/products/assaf/king-enable/2.jpg",
+    "/images/products/assaf/king-enable/3.jpg",
   ],
 
   description:
@@ -4837,9 +4837,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/im-here-enable/1.JPG",
-    "/images/products/assaf/im-here-enable/2.JPG",
-    "/images/products/assaf/im-here-enable/3.JPG",
+    "/images/products/assaf/im-here-enable/1.jpg",
+    "/images/products/assaf/im-here-enable/2.jpg",
+    "/images/products/assaf/im-here-enable/3.jpg",
   ],
 
   description:
@@ -4909,9 +4909,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/charlotte/1.JPG",
-    "/images/products/assaf/charlotte/2.JPG",
-    "/images/products/assaf/charlotte/3.JPG",
+    "/images/products/assaf/charlotte/1.jpg",
+    "/images/products/assaf/charlotte/2.jpg",
+    "/images/products/assaf/charlotte/3.jpg",
   ],
 
   description:
@@ -4980,9 +4980,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/blush/1.JPG",
-    "/images/products/assaf/blush/2.JPG",
-    "/images/products/assaf/blush/3.JPG",
+    "/images/products/assaf/blush/1.jpg",
+    "/images/products/assaf/blush/2.jpg",
+    "/images/products/assaf/blush/3.jpg",
   ],
 
   description:
@@ -5047,9 +5047,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/noble/1.JPG",
-    "/images/products/assaf/noble/2.JPG",
-    "/images/products/assaf/noble/3.JPG",
+    "/images/products/assaf/noble/1.jpg",
+    "/images/products/assaf/noble/2.jpg",
+    "/images/products/assaf/noble/3.jpg",
   ],
 
   description:
@@ -5110,9 +5110,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/gris-flora/1.JPG",
-    "/images/products/assaf/gris-flora/2.JPG",
-    "/images/products/assaf/gris-flora/3.JPG",
+    "/images/products/assaf/gris-flora/1.jpg",
+    "/images/products/assaf/gris-flora/2.jpg",
+    "/images/products/assaf/gris-flora/3.jpg",
   ],
 
   description:
@@ -5175,9 +5175,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/wild-colt/1.JPG",
-    "/images/products/assaf/wild-colt/2.JPG",
-    "/images/products/assaf/wild-colt/3.JPG",
+    "/images/products/assaf/wild-colt/1.jpg",
+    "/images/products/assaf/wild-colt/2.jpg",
+    "/images/products/assaf/wild-colt/3.jpg",
   ],
 
   description:
@@ -5239,9 +5239,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/wild-colt-smoky/1.JPG",
-    "/images/products/assaf/wild-colt-smoky/2.JPG",
-    "/images/products/assaf/wild-colt-smoky/3.JPG",
+    "/images/products/assaf/wild-colt-smoky/1.jpg",
+    "/images/products/assaf/wild-colt-smoky/2.jpg",
+    "/images/products/assaf/wild-colt-smoky/3.jpg",
   ],
 
   description:
@@ -5312,9 +5312,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/crown-spirit/1.JPG",
-    "/images/products/assaf/crown-spirit/2.JPG",
-    "/images/products/assaf/crown-spirit/3.JPG",
+    "/images/products/assaf/crown-spirit/1.jpg",
+    "/images/products/assaf/crown-spirit/2.jpg",
+    "/images/products/assaf/crown-spirit/3.jpg",
   ],
 
   description:
@@ -5382,9 +5382,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/lady/1.JPG",
-    "/images/products/assaf/lady/2.JPG",
-    "/images/products/assaf/lady/3.JPG",
+    "/images/products/assaf/lady/1.jpg",
+    "/images/products/assaf/lady/2.jpg",
+    "/images/products/assaf/lady/3.jpg",
   ],
 
   description:
@@ -5449,9 +5449,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/gris-eric/1.JPG",
-    "/images/products/assaf/gris-eric/2.JPG",
-    "/images/products/assaf/gris-eric/3.JPG",
+    "/images/products/assaf/gris-eric/1.jpg",
+    "/images/products/assaf/gris-eric/2.jpg",
+    "/images/products/assaf/gris-eric/3.jpg",
   ],
 
   description:
@@ -5517,9 +5517,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/wild-colt-tobacco/1.JPG",
-    "/images/products/assaf/wild-colt-tobacco/2.JPG",
-    "/images/products/assaf/wild-colt-tobacco/3.JPG",
+    "/images/products/assaf/wild-colt-tobacco/1.jpg",
+    "/images/products/assaf/wild-colt-tobacco/2.jpg",
+    "/images/products/assaf/wild-colt-tobacco/3.jpg",
   ],
 
   description:
@@ -5585,9 +5585,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/wild-pegasus/1.JPG",
-    "/images/products/assaf/wild-pegasus/2.JPG",
-    "/images/products/assaf/wild-pegasus/3.JPG",
+    "/images/products/assaf/wild-pegasus/1.jpg",
+    "/images/products/assaf/wild-pegasus/2.jpg",
+    "/images/products/assaf/wild-pegasus/3.jpg",
   ],
 
   description:
@@ -5649,9 +5649,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/miss-sakura/1.JPG",
-    "/images/products/assaf/miss-sakura/2.JPG",
-    "/images/products/assaf/miss-sakura/3.JPG",
+    "/images/products/assaf/miss-sakura/1.jpg",
+    "/images/products/assaf/miss-sakura/2.jpg",
+    "/images/products/assaf/miss-sakura/3.jpg",
   ],
 
   description:
@@ -5714,9 +5714,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/lady-supreme/1.JPG",
-    "/images/products/assaf/lady-supreme/2.JPG",
-    "/images/products/assaf/lady-supreme/3.JPG",
+    "/images/products/assaf/lady-supreme/1.jpg",
+    "/images/products/assaf/lady-supreme/2.jpg",
+    "/images/products/assaf/lady-supreme/3.jpg",
   ],
 
   description:
@@ -5778,9 +5778,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/lady-supreme/1.JPG",
-    "/images/products/assaf/lady-supreme/2.JPG",
-    "/images/products/assaf/lady-supreme/3.JPG",
+    "/images/products/assaf/lady-supreme/1.jpg",
+    "/images/products/assaf/lady-supreme/2.jpg",
+    "/images/products/assaf/lady-supreme/3.jpg",
   ],
 
   description:
@@ -5842,9 +5842,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/assaf/frankel-silver/1.JPG",
-    "/images/products/assaf/frankel-silver/2.JPG",
-    "/images/products/assaf/frankel-silver/3.JPG",
+    "/images/products/assaf/frankel-silver/1.jpg",
+    "/images/products/assaf/frankel-silver/2.jpg",
+    "/images/products/assaf/frankel-silver/3.jpg",
   ],
 
   description:
@@ -5908,9 +5908,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/black-diamond/1.JPG",
-    "/images/products/ibraq/black-diamond/2.JPG",
-    "/images/products/ibraq/black-diamond/3.JPG",
+    "/images/products/ibraq/black-diamond/1.jpg",
+    "/images/products/ibraq/black-diamond/2.jpg",
+    "/images/products/ibraq/black-diamond/3.jpg",
   ],
 
   description:
@@ -5977,9 +5977,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/sapphire-leather/1.JPG",
-    "/images/products/ibraq/sapphire-leather/2.JPG",
-    "/images/products/ibraq/sapphire-leather/3.JPG",
+    "/images/products/ibraq/sapphire-leather/1.jpg",
+    "/images/products/ibraq/sapphire-leather/2.jpg",
+    "/images/products/ibraq/sapphire-leather/3.jpg",
   ],
 
   description:
@@ -6044,9 +6044,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/pink-diamond/1.JPG",
-    "/images/products/ibraq/pink-diamond/2.JPG",
-    "/images/products/ibraq/pink-diamond/3.JPG",
+    "/images/products/ibraq/pink-diamond/1.jpg",
+    "/images/products/ibraq/pink-diamond/2.jpg",
+    "/images/products/ibraq/pink-diamond/3.jpg",
   ],
 
   description:
@@ -6113,9 +6113,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/black-carbon/1.JPG",
-    "/images/products/ibraq/black-carbon/2.JPG",
-    "/images/products/ibraq/black-carbon/3.JPG",
+    "/images/products/ibraq/black-carbon/1.jpg",
+    "/images/products/ibraq/black-carbon/2.jpg",
+    "/images/products/ibraq/black-carbon/3.jpg",
   ],
 
   description:
@@ -6182,9 +6182,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/nude-coral-diamond/1.JPG",
-    "/images/products/ibraq/nude-coral-diamond/2.JPG",
-    "/images/products/ibraq/nude-coral-diamond/3.JPG",
+    "/images/products/ibraq/nude-coral-diamond/1.jpg",
+    "/images/products/ibraq/nude-coral-diamond/2.jpg",
+    "/images/products/ibraq/nude-coral-diamond/3.jpg",
   ],
 
   description:
@@ -6251,9 +6251,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/manta-lthr/1.JPG",
-    "/images/products/ibraq/manta-lthr/2.JPG",
-    "/images/products/ibraq/manta-lthr/3.JPG",
+    "/images/products/ibraq/manta-lthr/1.jpg",
+    "/images/products/ibraq/manta-lthr/2.jpg",
+    "/images/products/ibraq/manta-lthr/3.jpg",
   ],
 
   description:
@@ -6317,9 +6317,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/vicuna-lthr/1.JPG",
-    "/images/products/ibraq/vicuna-lthr/2.JPG",
-    "/images/products/ibraq/vicuna-lthr/3.JPG",
+    "/images/products/ibraq/vicuna-lthr/1.jpg",
+    "/images/products/ibraq/vicuna-lthr/2.jpg",
+    "/images/products/ibraq/vicuna-lthr/3.jpg",
   ],
 
   description:
@@ -6383,9 +6383,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/malayan-lthr/1.JPG",
-    "/images/products/ibraq/malayan-lthr/2.JPG",
-    "/images/products/ibraq/malayan-lthr/3.JPG",
+    "/images/products/ibraq/malayan-lthr/1.jpg",
+    "/images/products/ibraq/malayan-lthr/2.jpg",
+    "/images/products/ibraq/malayan-lthr/3.jpg",
   ],
 
   description:
@@ -6456,9 +6456,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/honey-musc/1.JPG",
-    "/images/products/ibraq/honey-musc/2.JPG",
-    "/images/products/ibraq/honey-musc/3.JPG",
+    "/images/products/ibraq/honey-musc/1.jpg",
+    "/images/products/ibraq/honey-musc/2.jpg",
+    "/images/products/ibraq/honey-musc/3.jpg",
   ],
 
   description:
@@ -6523,9 +6523,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/rose-tobacco/1.JPG",
-    "/images/products/ibraq/rose-tobacco/2.JPG",
-    "/images/products/ibraq/rose-tobacco/3.JPG",
+    "/images/products/ibraq/rose-tobacco/1.jpg",
+    "/images/products/ibraq/rose-tobacco/2.jpg",
+    "/images/products/ibraq/rose-tobacco/3.jpg",
   ],
 
   description:
@@ -6589,9 +6589,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/touq/1.JPG",
-    "/images/products/ibraq/touq/2.JPG",
-    "/images/products/ibraq/touq/3.JPG",
+    "/images/products/ibraq/touq/1.jpg",
+    "/images/products/ibraq/touq/2.jpg",
+    "/images/products/ibraq/touq/3.jpg",
   ],
 
   description:
@@ -6657,9 +6657,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/ibraq/french-tobacco/1.JPG",
-    "/images/products/ibraq/french-tobacco/2.JPG",
-    "/images/products/ibraq/french-tobacco/3.JPG",
+    "/images/products/ibraq/french-tobacco/1.jpg",
+    "/images/products/ibraq/french-tobacco/2.jpg",
+    "/images/products/ibraq/french-tobacco/3.jpg",
   ],
 
   description:
