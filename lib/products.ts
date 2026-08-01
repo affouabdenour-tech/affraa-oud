@@ -2912,9 +2912,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/pink-incense/1.jpg",
-    "/images/products/abdul-samad/pink-incense/2.jpg",
-    "/images/products/abdul-samad/pink-incense/3.jpg",
+    "/images/products/abdul-samad/pink-incense/1.JPG",
+    "/images/products/abdul-samad/pink-incense/2.JPG",
+    "/images/products/abdul-samad/pink-incense/3.JPG",
   ],
 
   description:
