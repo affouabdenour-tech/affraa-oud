@@ -4,7 +4,6 @@ export default function NotFound() {
   return (
     <main className="flex min-h-screen items-center justify-center bg-[#0F0A07] px-6">
       <div className="max-w-xl text-center">
-
         <p className="mb-3 text-sm uppercase tracking-[0.4em] text-[#C8A86B]">
           AFFRAA OUD
         </p>
@@ -18,7 +17,7 @@ export default function NotFound() {
         </h2>
 
         <p className="mb-10 leading-8 text-gray-400">
-          The page you are looking for doesn't exist or has been moved.
+          The page you are looking for doesn&apos;t exist or has been moved.
         </p>
 
         <Link
@@ -27,7 +26,6 @@ export default function NotFound() {
         >
           Return Home
         </Link>
-
       </div>
     </main>
   );
