@@ -604,9 +604,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/shalki-blue/1.jpg",
-  "/images/products/arabian-oud/shalki-blue/2.jpg",
-  "/images/products/arabian-oud/shalki-blue/3.jpg",
+  "/images/products/arabian-oud/shalki-blue/1.JPG",
+  "/images/products/arabian-oud/shalki-blue/2.JPG",
+  "/images/products/arabian-oud/shalki-blue/3.JPG",
 ],
   description:
     "Shalki Blue is an elegant oriental floral fragrance with a smooth luxurious character. A refined composition designed for those seeking sophistication and freshness together.",
@@ -665,9 +665,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/cherry-bubbles/1.jpg",
-  "/images/products/arabian-oud/cherry-bubbles/2.jpg",
-  "/images/products/arabian-oud/cherry-bubbles/3.jpg",
+  "/images/products/arabian-oud/cherry-bubbles/1.JPG",
+  "/images/products/arabian-oud/cherry-bubbles/2.JPG",
+  "/images/products/arabian-oud/cherry-bubbles/3.JPG",
 ],
   description:
     "A joyful fruity-floral fragrance built around delicious cherry accords with soft berries and delicate floral notes.",
@@ -728,9 +728,9 @@ purchaseOptions: {
   stockCount: 999,
 
  images: [
-  "/images/products/arabian-oud/asalat-elmusc/1.jpg",
-  "/images/products/arabian-oud/asalat-elmusc/2.jpg",
-  "/images/products/arabian-oud/asalat-elmusc/3.jpg",
+  "/images/products/arabian-oud/asalat-elmusc/1.JPG",
+  "/images/products/arabian-oud/asalat-elmusc/2.JPG",
+  "/images/products/arabian-oud/asalat-elmusc/3.JPG",
 ],
 
 
@@ -794,9 +794,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/body-oud-satin/1.jpg",
-    "/images/products/abdul-samad/body-oud-satin/2.jpg",
-    "/images/products/abdul-samad/body-oud-satin/3.jpg",
+    "/images/products/abdul-samad/body-oud-satin/1.JPG",
+    "/images/products/abdul-samad/body-oud-satin/2.JPG",
+    "/images/products/abdul-samad/body-oud-satin/3.JPG",
   ],
 
   description:
@@ -859,9 +859,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/body-oud-tobacco/1.jpg",
-    "/images/products/abdul-samad/body-oud-tobacco/2.jpg",
-    "/images/products/abdul-samad/body-oud-tobacco/3.jpg",
+    "/images/products/abdul-samad/body-oud-tobacco/1.JPG",
+    "/images/products/abdul-samad/body-oud-tobacco/2.JPG",
+    "/images/products/abdul-samad/body-oud-tobacco/3.JPG",
   ],
 
   description:
@@ -926,9 +926,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/khaltat-watan/1.jpg",
-    "/images/products/abdul-samad/khaltat-watan/2.jpg",
-    "/images/products/abdul-samad/khaltat-watan/3.jpg",
+    "/images/products/abdul-samad/khaltat-watan/1.JPG",
+    "/images/products/abdul-samad/khaltat-watan/2.JPG",
+    "/images/products/abdul-samad/khaltat-watan/3.JPG",
   ],
 
   description:
@@ -989,9 +989,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/safari-lhomme/1.jpg",
-    "/images/products/abdul-samad/safari-lhomme/2.jpg",
-    "/images/products/abdul-samad/safari-lhomme/3.jpg",
+    "/images/products/abdul-samad/safari-lhomme/1.JPG",
+    "/images/products/abdul-samad/safari-lhomme/2.JPG",
+    "/images/products/abdul-samad/safari-lhomme/3.JPG",
   ],
 
   description:
@@ -1089,9 +1089,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/safari-la-femme/1.jpg",
-    "/images/products/abdul-samad/safari-la-femme/2.jpg",
-    "/images/products/abdul-samad/safari-la-femme/3.jpg",
+    "/images/products/abdul-samad/safari-la-femme/1.JPG",
+    "/images/products/abdul-samad/safari-la-femme/2.JPG",
+    "/images/products/abdul-samad/safari-la-femme/3.JPG",
   ],
 
   description:
@@ -1186,9 +1186,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/caramel-powder/1.jpg",
-    "/images/products/abdul-samad/caramel-powder/2.jpg",
-    "/images/products/abdul-samad/caramel-powder/3.jpg",
+    "/images/products/abdul-samad/caramel-powder/1.JPG",
+    "/images/products/abdul-samad/caramel-powder/2.JPG",
+    "/images/products/abdul-samad/caramel-powder/3.JPG",
   ],
 
   description:
@@ -1272,9 +1272,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/musc-rose/1.jpg",
-    "/images/products/abdul-samad/musc-rose/2.jpg",
-    "/images/products/abdul-samad/musc-rose/3.jpg",
+    "/images/products/abdul-samad/musc-rose/1.JPG",
+    "/images/products/abdul-samad/musc-rose/2.JPG",
+    "/images/products/abdul-samad/musc-rose/3.JPG",
   ],
 
   description:
@@ -1357,9 +1357,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/musc-toffee/1.jpg",
-    "/images/products/abdul-samad/musc-toffee/2.jpg",
-    "/images/products/abdul-samad/musc-toffee/3.jpg",
+    "/images/products/abdul-samad/musc-toffee/1.JPG",
+    "/images/products/abdul-samad/musc-toffee/2.JPG",
+    "/images/products/abdul-samad/musc-toffee/3.JPG",
   ],
 
   description:
@@ -1446,9 +1446,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/bleu-kinam-vanilla/1.jpg",
-    "/images/products/abdul-samad/bleu-kinam-vanilla/2.jpg",
-    "/images/products/abdul-samad/bleu-kinam-vanilla/3.jpg",
+    "/images/products/abdul-samad/bleu-kinam-vanilla/1.JPG",
+    "/images/products/abdul-samad/bleu-kinam-vanilla/2.JPG",
+    "/images/products/abdul-samad/bleu-kinam-vanilla/3.JPG",
   ],
 
   description:
@@ -1529,9 +1529,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/vintage-amber/1.jpg",
-    "/images/products/abdul-samad/vintage-amber/2.jpg",
-    "/images/products/abdul-samad/vintage-amber/3.jpg",
+    "/images/products/abdul-samad/vintage-amber/1.JPG",
+    "/images/products/abdul-samad/vintage-amber/2.JPG",
+    "/images/products/abdul-samad/vintage-amber/3.JPG",
   ],
 
   description:
@@ -2817,9 +2817,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/black-incense/1.jpg",
-    "/images/products/abdul-samad/black-incense/2.jpg",
-    "/images/products/abdul-samad/black-incense/3.jpg",
+    "/images/products/abdul-samad/black-incense/1.JPG",
+    "/images/products/abdul-samad/black-incense/2.JPG",
+    "/images/products/abdul-samad/black-incense/3.JPG",
   ],
 
   description:
