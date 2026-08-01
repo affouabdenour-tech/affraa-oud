@@ -344,8 +344,29 @@ export default function CheckoutPage() {
               <button
                 type="button"
                 onClick={() => {
-                  const message = `
-AFFRAA OUD
+                  const productsText = cart
+  .map(
+    (item) => `
+🛍 Product:
+${item.name}
+
+Quantity:
+${item.quantity}
+
+Price:
+${item.price} DZD
+`
+  )
+  .join("\n----------------------\n");
+
+const message = `
+🛍 AFFRAA OUD
+
+========================
+
+${productsText}
+
+========================
 
 Customer:
 ${fullName}
@@ -382,7 +403,7 @@ ${total}
 
 Notes:
 ${notes}
-                  `;
+`;
 
                   window.open(
                     `https://wa.me/213551578373?text=${encodeURIComponent(message)}`,
