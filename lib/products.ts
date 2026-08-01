@@ -926,9 +926,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/khaltat-watan/1.JPG",
-    "/images/products/abdul-samad/khaltat-watan/2.JPG",
-    "/images/products/abdul-samad/khaltat-watan/3.JPG",
+    "/images/products/abdul-samad/khaltat-watan/1.jpg",
+    "/images/products/abdul-samad/khaltat-watan/2.jpg",
+    "/images/products/abdul-samad/khaltat-watan/3.jpg",
   ],
 
   description:
