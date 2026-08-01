@@ -19,9 +19,9 @@ export const products: Product[] = [
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/kalemat/1.jpg",
-  "/images/products/arabian-oud/kalemat/2.jpg",
-  "/images/products/arabian-oud/kalemat/3.jpg",
+  "/images/products/arabian-oud/kalemat/1.JPG",
+  "/images/products/arabian-oud/kalemat/2.JPG",
+  "/images/products/arabian-oud/kalemat/3.JPG",
 ],
 
   description:
@@ -86,9 +86,9 @@ export const products: Product[] = [
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/kashmir-musc/1.jpg",
-  "/images/products/arabian-oud/kashmir-musc/2.jpg",
-  "/images/products/arabian-oud/kashmir-musc/3.jpg",
+  "/images/products/arabian-oud/kashmir-musc/1.JPG",
+  "/images/products/arabian-oud/kashmir-musc/2.JPG",
+  "/images/products/arabian-oud/kashmir-musc/3.JPG",
 ],
 
   description:
@@ -222,9 +222,9 @@ purchaseOptions: {
   stockCount: 999,
 
  images: [
-  "/images/products/arabian-oud/majestic-oud/1.jpg",
-  "/images/products/arabian-oud/majestic-oud/2.jpg",
-  "/images/products/arabian-oud/majestic-oud/3.jpg",
+  "/images/products/arabian-oud/majestic-oud/1.JPG",
+  "/images/products/arabian-oud/majestic-oud/2.JPG",
+  "/images/products/arabian-oud/majestic-oud/3.JPG",
 ],
 
   description:
@@ -398,7 +398,7 @@ purchaseOptions: {
   id: "rose-wood",
   slug: "rose-wood",
   name: "Rose Wood",
-  nameAr: "روز وود",
+  nameAr: "رووز عود ",
   brand: "Arabian Oud",
   brandId: "arabian-oud",
   category: "arabian-perfumes",
@@ -411,9 +411,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/rose-wood/1.jpg",
-  "/images/products/arabian-oud/rose-wood/2.jpg",
-  "/images/products/arabian-oud/rose-wood/3.jpg",
+  "/images/products/arabian-oud/rose-wood/1.JPG",
+  "/images/products/arabian-oud/rose-wood/2.JPG",
+  "/images/products/arabian-oud/rose-wood/3.JPG",
 ],
 
   description:
@@ -540,9 +540,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-  "/images/products/arabian-oud/ramz/1.jpg",
-  "/images/products/arabian-oud/ramz/2.jpg",
-  "/images/products/arabian-oud/ramz/3.jpg",
+  "/images/products/arabian-oud/ramz/1.JPG",
+  "/images/products/arabian-oud/ramz/2.JPG",
+  "/images/products/arabian-oud/ramz/3.JPG",
 ],
   description:
     "RAMZ is a refreshing aromatic fragrance inspired by the sea. Marine accords blend with citrus, musk and precious woods to create a clean and elegant scent for everyday wear.",
@@ -859,9 +859,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/body-oud-tobacco/1.JPG",
-    "/images/products/abdul-samad/body-oud-tobacco/2.JPG",
-    "/images/products/abdul-samad/body-oud-tobacco/3.JPG",
+    "/images/products/abdul-samad/body-oud-tobacco/1.jpg",
+    "/images/products/abdul-samad/body-oud-tobacco/2.jpg",
+    "/images/products/abdul-samad/body-oud-tobacco/3.jpg",
   ],
 
   description:
@@ -926,9 +926,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/khaltat-watan/1.Jpg",
-    "/images/products/abdul-samad/khaltat-watan/2.jpg",
-    "/images/products/abdul-samad/khaltat-watan/3.jpg",
+    "/images/products/abdul-samad/khaltat-watan/1.JPG",
+    "/images/products/abdul-samad/khaltat-watan/2.JPG",
+    "/images/products/abdul-samad/khaltat-watan/3.JPG",
   ],
 
   description:
@@ -1186,9 +1186,9 @@ purchaseOptions: {
   stockCount: 999,
 
   images: [
-    "/images/products/abdul-samad/caramel-powder/1.JPG",
-    "/images/products/abdul-samad/caramel-powder/2.JPG",
-    "/images/products/abdul-samad/caramel-powder/3.JPG",
+    "/images/products/abdul-samad/caramel-powder/1.jpg",
+    "/images/products/abdul-samad/caramel-powder/2.jpg",
+    "/images/products/abdul-samad/caramel-powder/3.jpg",
   ],
 
   description:
@@ -3074,97 +3074,7 @@ purchaseOptions: {
 
   reviews: [],
 },
-{
-  id: "body-oud-tobacco",
-  slug: "body-oud-tobacco",
 
-  name: "Body Oud Tobacco",
-  nameAr: "بودي عود توباكو",
-
-  brand: "Abdul Samad Al Qurashi",
-  brandId: "abdul-samad",
-
-  category: "arabian-perfumes",
-
-  price: 27500,
-  rating: 5,
-  reviewCount: 0,
-
-  inStock: true,
-  stockCount: 999,
-
-  images: [
-    "/images/products/abdul-samad/body-oud-tobacco/1.JPG",
-    "/images/products/abdul-samad/body-oud-tobacco/2.JPG",
-    "/images/products/abdul-samad/body-oud-tobacco/3.JPG",
-  ],
-
-  description:
-    "A luxurious oriental fragrance blending rich tobacco, precious oud, smooth whisky accord and warm sweet spices for a bold masculine signature.",
-
-  descriptionAr:
-    "عطر شرقي فاخر يجمع بين التبغ الفاخر والعود مع لمسة ويسكي وتوابل دافئة ليمنح رائحة قوية وأنيقة تدوم طويلاً.",
-
-  notes: {
-    top: [
-      "Tobacco",
-      "Fresh Spices",
-    ],
-
-    heart: [
-      "Oud",
-      "Whisky Accord",
-    ],
-
-    base: [
-      "Sweet Notes",
-      "Woody Notes",
-    ],
-  },
-
-  family: "oriental",
-
-  concentration: "eau-de-parfum",
-
-  gender: "unisex",
-
-  season: "all",
-
-  longevity: 5,
-
-  projection: 5,
-
-  ingredients: [
-    "Tobacco",
-    "Oud",
-    "Sweet Notes",
-    "Whisky Accord",
-    "Fresh Spices",
-  ],
-
-  sizes: [
-    "10ml",
-    "100ml",
-  ],
-
-  purchaseOptions: {
-    fullBottle: [
-      {
-        size: "10ml",
-        price: 3100,
-      },
-      {
-        size: "100ml",
-        price: 27500,
-      },
-    ],
-    decants: [],
-  },
-
-  countryOfOrigin: "Saudi Arabia",
-
-  reviews: [],
-},
 {
   id: "noir",
   slug: "noir",
