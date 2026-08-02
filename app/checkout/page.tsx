@@ -1,5 +1,5 @@
 'use client';
-
+import { products } from "@/lib/products";
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import { getShippingPrice } from "@/lib/shipping";
@@ -241,7 +241,6 @@ export default function CheckoutPage() {
 
             </section>
                         {/* Delivery Type */}
-
             <section className="rounded-3xl border border-border bg-card p-8">
 
               <h2 className="mb-6 flex items-center gap-3 text-2xl font-display">
@@ -286,81 +285,76 @@ export default function CheckoutPage() {
 
           {/* RIGHT SIDE */}
 
-          <aside className="sticky top-28 h-fit rounded-3xl border border-border bg-card p-8">
+<aside className="sticky top-28 h-fit rounded-3xl border border-border bg-card p-8">
+  <h2 className="mb-6 text-2xl font-display">Order Summary</h2>
 
-            <h2 className="mb-6 text-2xl font-display">
-              Order Summary
-            </h2>
+  <div className="space-y-4">
+    {cart.map((item) => {
+      const product = products.find((p) => p.id === item.productId);
 
-            <div className="space-y-4">
+      return (
+        <div
+          key={`${item.productId}-${item.size}`}
+          className="flex items-center justify-between"
+        >
+          <div>
+            <p className="font-medium">
+              {item.quantity} × {product?.name ?? item.productId}
+            </p>
 
-              {cart.map((item) => (
-                <div
-                  key={`${item.productId}-${item.size}`}
-                  className="flex items-center justify-between"
-                >
-                  <div>
-                    <p className="font-medium">
-                      {item.quantity} × {item.productId}
-                    </p>
+            <p className="text-xs text-muted-foreground">
+              {item.size}
+            </p>
+          </div>
 
-                    <p className="text-xs text-muted-foreground">
-                      {item.size}
-                    </p>
-                  </div>
+          <span className="font-semibold">
+            {formatPrice(item.price * item.quantity, locale)}
+          </span>
+        </div>
+      );
+    })}
 
-                  <span className="font-semibold">
-                    {formatPrice(item.price * item.quantity, locale)}
-                  </span>
-                </div>
-              ))}
+    <hr className="border-border" />
 
-              <hr className="border-border" />
+    <div className="flex justify-between">
+      <span>Products</span>
+      <span>{formatPrice(subtotal, locale)}</span>
+    </div>
 
-              <div className="flex justify-between">
-                <span>Products</span>
-                <span>{formatPrice(subtotal, locale)}</span>
-              </div>
+    <div className="flex justify-between">
+      <span>Shipping</span>
+      <span className="font-semibold text-gold">
+        {formatPrice(shippingCost, locale)}
+      </span>
+    </div>
 
-              <div className="flex justify-between">
-                <span>Shipping</span>
-                <span className="text-gold font-semibold">
-                  {formatPrice(shippingCost, locale)}
-                </span>
-              </div>
+    <hr className="border-border" />
 
-              <hr className="border-border" />
+    <div className="flex justify-between text-xl font-bold">
+      <span>Total</span>
 
-              <div className="flex justify-between text-xl font-bold">
+      <span className="text-gold">
+        {formatPrice(total, locale)}
+      </span>
+    </div>
 
-                <span>Total</span>
+    <button
+      type="button"
+      onClick={() => {
+        const productsText = cart
+          .map((item) => {
+            const product = products.find(
+              (p) => p.id === item.productId
+            );
 
-                <span className="text-gold">
-                  {formatPrice(total, locale)}
-                </span>
+            return `🛍 ${product?.name ?? item.productId}
+• Size: ${item.size}
+• Qty: ${item.quantity}
+• Price: ${item.price} DZD`;
+          })
+          .join("\n\n");
 
-              </div>
-
-              <button
-                type="button"
-                onClick={() => {
-                  const productsText = cart
-  .map(
-    (item) => `
-🛍 Product:
-${item.name}
-
-Quantity:
-${item.quantity}
-
-Price:
-${item.price} DZD
-`
-  )
-  .join("\n----------------------\n");
-
-const message = `
-🛍 AFFRAA OUD
+        const message = `🛍 AFFRAA OUD
 
 ========================
 
@@ -368,61 +362,45 @@ ${productsText}
 
 ========================
 
-Customer:
-${fullName}
+Customer: ${fullName}
 
-Phone:
-${phone}
+Phone: ${phone}
 
-Email:
-${email}
+Email: ${email}
 
-Wilaya:
-${wilaya}
+Wilaya: ${wilaya}
 
-Commune:
-${commune}
+Commune: ${commune}
 
-Address:
-${address}
+Address: ${address}
 
-Company:
-${shippingCompany}
+Shipping Company: ${shippingCompany}
 
-Delivery:
-${deliveryType}
+Delivery: ${deliveryType}
 
-Products Total:
-${subtotal}
+Products Total: ${subtotal} DZD
 
-Shipping:
-${shippingCost}
+Shipping: ${shippingCost} DZD
 
-Total:
-${total}
+Total: ${total} DZD
 
 Notes:
-${notes}
-`;
+${notes}`;
 
-                  window.open(
-                    `https://wa.me/213551578373?text=${encodeURIComponent(message)}`,
-                    "_blank"
-                  );
-                }}
-                className="mt-8 w-full rounded-2xl bg-gradient-to-r from-[#C8A86B] to-[#E8C98A] py-4 text-lg font-bold text-black transition hover:scale-[1.02]"
-              >
-                Complete Order via WhatsApp
-              </button>
-
-            </div>
-
-          </aside>
-
-        </div>
-
-      </div>
+        window.open(
+          `https://wa.me/213551578373?text=${encodeURIComponent(message)}`,
+          "_blank"
+        );
+      }}
+      className="mt-8 w-full rounded-2xl bg-gradient-to-r from-[#C8A86B] to-[#E8C98A] py-4 text-lg font-bold text-black transition hover:scale-[1.02]"
+    >
+      Complete Order via WhatsApp
+    </button>
+  </div>
+</aside>
 
     </div>
-  );
+  </div>
+</div>
+);
 }
