@@ -7,9 +7,9 @@ import { useStore } from '@/lib/store';
 import { t } from '@/lib/i18n';
 
 const heroImages = [
-  '/images/hero/bg1.jpg',
-  '/images/hero/bg2.jpg',
-  '/images/hero/bg3.jpg',
+  "/images/hero/bg1.jpg",
+  "/images/hero/bg2.jpg",
+  "/images/hero/bg3.jpg",
 ];
 
 export function Hero() {
