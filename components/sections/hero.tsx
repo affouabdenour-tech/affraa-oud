@@ -94,25 +94,22 @@ export function Hero() {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 mx-auto max-w-4xl px-4 text-center">
+<div className="relative z-10 mx-auto max-w-4xl px-4 text-center">
 
-        {/* Logo */}
+  {/* Logo */}
+  <div
+    className={
+      mounted
+        ? "animate-fade-in"
+        : "opacity-0"
+    }
+  >
+    <h1 className="mx-auto text-center font-serif text-6xl md:text-8xl lg:text-9xl font-light tracking-[0.55em] uppercase text-[#F8F3E8]">
+      AFFRAA OUD
+    </h1>
+  </div>
 
-        <div
-          className={
-            mounted
-              ? 'animate-fade-in'
-              : 'opacity-0'
-          }
-        >
-          <img
-            src="/images/logo.png"
-            alt="AFFRAA OUD"
-            className="mx-auto w-56 md:w-72 lg:w-[420px] drop-shadow-2xl"
-          />
-        </div>
-
-        {/* Buttons */}
+  {/* Buttons */}
 
         <div
           className={`mt-12 flex flex-col items-center justify-center gap-4 sm:flex-row ${
