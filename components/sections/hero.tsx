@@ -45,11 +45,11 @@ export function Hero() {
 
   const particles = Array.from({ length: 20 });
 
-  return (
-    <section
-      ref={containerRef}
-      className="relative flex min-h-screen items-center justify-center overflow-hidden bg-brown"
-    >
+ return (
+  <section
+    ref={containerRef}
+    className="relative flex min-h-screen items-center justify-center overflow-hidden bg-brown"
+  >
       {/* Background Slider */}
       <div
         className="absolute inset-0"
@@ -65,7 +65,7 @@ export function Hero() {
             alt=""
             className={`absolute inset-0 h-full w-full object-cover transition-all duration-1000 ${
               currentImage === index
-                ? 'opacity-40 scale-100'
+                ? 'opacity-90 scale-100'
                 : 'opacity-0 scale-110'
             }`}
           />
@@ -104,23 +104,7 @@ export function Hero() {
         : "opacity-0"
     }
   >
-    <h1
-  className="
-    text-center
-    text-4xl
-    md:text-6xl
-    lg:text-7xl
-    font-serif
-    font-bold
-    tracking-[0.25em]
-    uppercase
-    text-[#F5E7C3]
-    whitespace-nowrap
-    drop-shadow-[0_0_30px_rgba(200,168,107,0.5)]
-  "
->
-  AFFRAA OUD
-</h1>
+    
   </div>
 
 
@@ -156,16 +140,13 @@ export function Hero() {
       {/* Scroll Indicator */}
 
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2">
-        <div className="flex flex-col items-center gap-2 text-foreground/50">
-          <span className="text-[10px] uppercase tracking-[0.3em]">
-            {tr.hero.scroll}
-          </span>
+  <div className="flex flex-col items-center gap-2 text-foreground/50">
+    <span className="text-[10px] uppercase tracking-[0.3em]">
+      {tr.hero.scroll}
+    </span>
 
-          <span className="flex h-10 w-6 justify-center rounded-full border border-foreground/30 p-1">
-            <span className="h-2 w-1 animate-float rounded-full bg-gold" />
-          </span>
-        </div>
-      </div>
-    </section>
-  );
-}
+    <span className="flex h-10 w-6 justify-center rounded-full border border-foreground/30 p-1">
+      <span className="h-2 w-1 animate-float rounded-full bg-gold" />
+    </span>
+  </div>
+</div>
