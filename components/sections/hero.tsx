@@ -93,7 +93,7 @@ export function Hero() {
         ))}
       </div>
 
-      {/* Content */}
+        {/* Content */}
 <div className="relative z-10 mx-auto max-w-4xl px-4 text-center">
 
   {/* Logo */}
@@ -104,10 +104,25 @@ export function Hero() {
         : "opacity-0"
     }
   >
-    <h1 className="mx-auto text-center font-serif text-6xl md:text-8xl lg:text-9xl font-light tracking-[0.55em] uppercase text-[#F8F3E8]">
-      AFFRAA OUD
-    </h1>
+    <h1
+  className="
+    text-center
+    text-4xl
+    md:text-6xl
+    lg:text-7xl
+    font-serif
+    font-bold
+    tracking-[0.25em]
+    uppercase
+    text-[#F5E7C3]
+    whitespace-nowrap
+    drop-shadow-[0_0_30px_rgba(200,168,107,0.5)]
+  "
+>
+  AFFRAA OUD
+</h1>
   </div>
+
 
   {/* Buttons */}
 
