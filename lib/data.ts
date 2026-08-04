@@ -7,7 +7,7 @@ export const categories: Category[] = [
     nameAr: 'البديل',
     description: 'High quality inspired fragrances — luxury scents at an accessible price.',
     image:
-      'https://images.pexels.com/photos/965990/pexels-photo-965990.jpeg?auto=compress&cs=tinysrgb&w=900',
+       "/images/categories/dupes.png",
     productCount: 24,
   },
   {
@@ -16,25 +16,25 @@ export const categories: Category[] = [
     nameAr: 'العطور النيش',
     description: 'Artisan houses creating singular, uncompromising scents.',
     image:
-      'https://images.pexels.com/photos/30999130/pexels-photo-30999130.jpeg?auto=compress&cs=tinysrgb&w=900',
+      "/images/categories/niche.png",
     productCount: 18,
   },
   {
     id: 'ultra-niche',
     name: 'Ultra Niche',
-    nameAr: 'النيش الفائق',
+    nameAr: 'العطور الحرفية',
     description: 'Limited editions and rare compositions for the true collector.',
     image:
-      'https://images.pexels.com/photos/12456278/pexels-photo-12456278.jpeg?auto=compress&cs=tinysrgb&w=900',
+      "/images/categories/ultra-niche.png",
     productCount: 12,
   },
   {
     id: 'musk-collection',
     name: 'Musk Collection',
-    nameAr: 'مجموعة المسك',
+    nameAr: 'الادهان المسك',
     description: 'Pure musks — soft, sensual, and endlessly elegant.',
     image:
-      'https://images.pexels.com/photos/30618765/pexels-photo-30618765.jpeg?auto=compress&cs=tinysrgb&w=900',
+       "/images/categories/musk.png",
     productCount: 9,
   },
   {
@@ -43,7 +43,7 @@ export const categories: Category[] = [
     nameAr: 'العطور العربية',
     description: 'Traditional Arabian attars and oriental blends rooted in heritage.',
     image:
-      'https://images.pexels.com/photos/30981935/pexels-photo-30981935.jpeg?auto=compress&cs=tinysrgb&w=900',
+      "/images/categories/arabian-perfumes.png",
     productCount: 16,
   },
   {
@@ -52,7 +52,7 @@ export const categories: Category[] = [
     nameAr: 'العود',
     description: 'The king of ingredients — pure agarwood oils and blends.',
     image:
-      'https://images.pexels.com/photos/35658144/pexels-photo-35658144.jpeg?auto=compress&cs=tinysrgb&w=900',
+      "/images/categories/oud.png",
     productCount: 20,
   },
   {
@@ -61,7 +61,7 @@ export const categories: Category[] = [
     nameAr: 'البخور',
     description: 'Aromatic woods and resins to fragrance your home and garments.',
     image:
-      'https://images.pexels.com/photos/17860048/pexels-photo-17860048.jpeg?auto=compress&cs=tinysrgb&w=900',
+       "/images/categories/bakhoor.png",
     productCount: 14,
   },
   {
@@ -69,8 +69,8 @@ export const categories: Category[] = [
     name: 'Gift Sets',
     nameAr: 'مجموعات الهدايا',
     description: 'Curated coffrets presented in signature AFFRAA OUD boxes.',
-    image:
-      'https://images.pexels.com/photos/34972176/pexels-photo-34972176.jpeg?auto=compress&cs=tinysrgb&w=900',
+    image:"/images/categories/gift-sets.png",
+      
     productCount: 11,
   },
 ];

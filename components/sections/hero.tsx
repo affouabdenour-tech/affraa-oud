@@ -150,3 +150,6 @@ export function Hero() {
     </span>
   </div>
 </div>
+</section>
+  );
+}
